@@ -140,7 +140,7 @@ with tempfile.TemporaryDirectory() as temp_dir:
             except Exception as e:
                 print(f"✗ Unexpected error: {e}")
   #chnage this var lol to your web hook
-    DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1413504420272144435/kGuFZyXZMU-KhWUJt9g7AtLl3ltx_hbOvFk8k0ityoacdO0lKXXaLPAjH7Qq1ry6A55Y"
+    DISCORD_WEBHOOK_URL = "ENTER_YOUR"
 
     message = "**🙊🙉🙈Extracter deep** \n"
     message += "---------\n\n"
